@@ -1,2 +1,4 @@
 # hello_world
-First Reporsitory
+
+mylist = [1,2,3]
+
